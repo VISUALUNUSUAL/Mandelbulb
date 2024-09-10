@@ -1,2 +1,2 @@
 # Mandelbulb
-visualunusual.github.io/Mandelbulb/
+https://visualunusual.github.io/Mandelbulb/
